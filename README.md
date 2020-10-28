@@ -1,2 +1,2 @@
 # 3160-Group-Project-Fall-2020
-Memebers: Christian Kotas
+Memebers: Christian Kotas, Adam Hill
